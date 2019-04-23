@@ -1,0 +1,22 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+
+.container {
+    padding-top: 40px;
+}
+
+.navbar {
+    background-color: dimgrey;
+}
+
+.nav-link {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.content {
+    background-color: brown;
+}
